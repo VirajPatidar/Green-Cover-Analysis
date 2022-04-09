@@ -8,7 +8,7 @@ _A web app has also been developed using **Django REST Framework** and **React**
 **Link to the deployed ipynb notebooks:** [https://gcnotebooks.herokuapp.com/](https://gcnotebooks.herokuapp.com/) <br/> <br/>
 
 ### Web App: ###
-**Link to the deployed web app:** [https://gcnotebooks.herokuapp.com/](https://gcnotebooks.herokuapp.com/) <br/>
+**Link to the deployed web app:** [https://green-cover.netlify.app/](https://green-cover.netlify.app/) <br/>
 **Link to frontend repo:** [https://github.com/VirajPatidar/green-cover-frontend](https://github.com/VirajPatidar/green-cover-frontend) <br/>
 **Link to backend repo:** [https://github.com/VirajPatidar/green-cover-backend](https://github.com/VirajPatidar/green-cover-backend)
 
