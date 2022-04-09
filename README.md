@@ -1,25 +1,34 @@
 # Green-Cover-Analysis
 
 _Analysis of geo mapped photographs and satellite imagery to estimate green cover over time across the globe._ <br/>
+_A web app has also been developed using **Django REST Framework** and **React** for the same._
 
 <br/>
 
-**Link to the deployed ipynb notebooks:** [https://gcnotebooks.herokuapp.com/](https://gcnotebooks.herokuapp.com/) <br/>
+**Link to the deployed ipynb notebooks:** [https://gcnotebooks.herokuapp.com/](https://gcnotebooks.herokuapp.com/) <br/> <br/>
 
+### Web App: ###
+**Link to the deployed web app:** [https://gcnotebooks.herokuapp.com/](https://gcnotebooks.herokuapp.com/) <br/>
+**Link to frontend repo:** [https://github.com/VirajPatidar/green-cover-frontend](https://github.com/VirajPatidar/green-cover-frontend) <br/>
+**Link to backend repo:** [https://github.com/VirajPatidar/green-cover-backend](https://github.com/VirajPatidar/green-cover-backend)
 
-### Tech Stack ###
+ <br/>
+ 
+### Tech Stack: ###
 **Vision Analytics, Machine Learning, Datasets and Satellite Imagery:**
 * [Google Earth Engine Datasets](https://developers.google.com/earth-engine/datasets)
 * [Google Earth Engine Python API](https://earthengine.google.com/)
-* [Geemap](https://geemap.org/)
+* [Geemap](https://geemap.org/)  
 
+<br/>
 
-### Features ###
+### Features: ###
 * Rendering dynamic maps to analyse green cover and generate timelapses representing change in green cover.
 * Time series chart/graph representing change in green cover over the years for the state of Maharashtra.
 * Predicting type of landcover in the state of Maharashtra by performing supervised classification using existing datasets. 
 * Analysis of air quality on basis of various parameters for the state of Maharashtra.
 
+<br/>
 
 ### Features along with datasets used: ###
 
